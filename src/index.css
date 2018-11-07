@@ -12,3 +12,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.completed {
+  background-color:green
+}
+.notCompleted {
+  background-color:red
+}
+table {
+  width:100%;
+}
+td {
+  height:50px;
+}
